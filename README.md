@@ -1,7 +1,7 @@
 # Animator
 A single class that works as a GIF Loader with images frames. [iOS]
 
-# USAGE
+# Usage
 
 Find a GIF that you like.
 Split it into images. (https://ezgif.com/split)
